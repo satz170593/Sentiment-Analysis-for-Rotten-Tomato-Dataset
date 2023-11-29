@@ -1,0 +1,7 @@
+Reference:
+[1] Pang, Bo, and Lillian Lee. "Seeing stars:Exploiting class relationships for sentiment categorization with respect to rating scales."Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics. Association for Computational Linguistics, 2005.
+[2] Socher, Richard, et al. "Recursive deep models for semantic compositionality over a sentiment treebank." Proceedings of the conference on empirical methods in natural language processing
+(EMNLP). Vol. 1631. 2013.
+[3] https://www.kaggle.com/c/sentiment-analysis-onmovie- reviews/data
+[4] Maas, Andrew L., et al. "Learning word vectors for sentiment analysis."Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies-Volume 1. Association for Computational Linguistics, 2011.
+"
